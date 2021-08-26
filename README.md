@@ -14,7 +14,7 @@ You probably shouldn't. But if you want to, it's pretty simple. First, [set your
 
 You should probably start by adding a quote:
 
-`!addquote --quote {"game": "PathFinder", "author": "dan", "content": "Flavortown?!."}`
+`!addquote --quote {"game": "PathFinder", "author": "dan", "content": "Flavortown?!"}`
 
 The thing after `--quote` has to be valid JSON, or RoboQuote will complain at you.
 
@@ -27,4 +27,4 @@ There's no functionality beyond that.
 
 ## What's the future of RoboQuote?
 
-This is probably it. I wrote this as a little hobby project to fill a very specific need and wanted to put it here just so I had some form of version control on it. I **strongly** recommend against using it unless you're me or you know me and I've directed you here. Even then, you be justified in your skepticism.
+This is probably it. I wrote this as a little hobby project to fill a very specific need and wanted to put it here just so I had some form of version control on it. I **strongly** recommend against using it unless you're me or you know me and I've directed you here. Even then, you would be justified in your skepticism.
