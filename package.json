@@ -1,0 +1,20 @@
+{
+    "name": "robo-quote",
+    "version": "0.1.0",
+    "description": "Random quote selection for fun and profit",
+    "main": "roboquote.js",
+    "author": "Dan Hannah",
+    "dependencies": {
+        "discord.js": "^12.2.0",
+        "dotenv": "^8.2.0",
+        "redis": "^3.1.2",
+        "util": "^0.12.3"
+    },
+    "engines": {
+        "node": "14.5.0",
+        "npm": "*"
+    },
+    "scripts": {
+        "start": "node roboquote.js"
+    }
+}
